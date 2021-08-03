@@ -1,1 +1,1 @@
-# mayhem
+Implementation of Mayhem miniatures game on the web.
